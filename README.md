@@ -9,8 +9,8 @@ The dashboard was created to display a wide range of information taken from data
 3. Analyze the sales over the years and what are the suggestions to improve the sales ratio of the Bike Store
 4. Analyze the behavior of customers in our store and which ones buy more from our store
 
-### Analyzing Dashboard Pages
- We have four pages in the dashboard
+## Analyzing Dashboard Pages
+   We have four pages in the dashboard
  
 1. First page <a href="https://github.com/MohamedNasr55/Bike-Store/blob/main/Dashboard%20Images/Sales%20Page.png"> Sales Page Analysis <a>
 - Contains the total number of customers, orders sold, total profit, and total quantity.
